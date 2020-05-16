@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@400;500&display=swap");
+
+$background: #1c1222;
+$textColor: rgb(234, 214, 247);
+
+html,
+body {
+  background-color: $background;
+  font-family: "Roboto Mono", monospace;
+  color: $textColor;
+  font-size: 18px;
+  overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.big {
+  font-size: 4rem;
+}

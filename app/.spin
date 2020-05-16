@@ -1,0 +1,7 @@
+(Source bs-react)
+(Cfg_str project_name"QueerJs ReasonML")
+(Cfg_str project_slug queerjs-reasonml)
+(Cfg_str project_description"A demo of ReasonML for the QueerJS meetup")
+(Cfg_str author_name"Guillaume Bogard")
+(Cfg_str css_framework None)
+(Cfg_str ci_cd None)
